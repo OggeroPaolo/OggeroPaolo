@@ -24,7 +24,7 @@
 <p>
   My current favourite video game is
   <a href="https://www.playdeadlock.com" target="_blank" rel="noreferrer">Deadlock</a>
-  <img src="./assets/deadlock_icon.png" width="32" height="32" alt="Deadlock" style="vertical-align: middle;" />
+  <img src="./assets/deadlock_icon.png" width="32" height="32" alt="Deadlock" align="absmiddle"/>
 </p>
 
 <h2>Socials</h2>
