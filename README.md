@@ -21,7 +21,11 @@
 </div>
 
 <h2>Fun fact</h2>
-<p>My current favourite video game is <a href="https://www.playdeadlock.com" target="_blank" rel="noreferrer">Deadlock</a><img src="./assets/deadlock_icon.png" width="32" height="32" alt="Deadlock"/></p>
+<p>
+  My current favourite video game is
+  <a href="https://www.playdeadlock.com" target="_blank" rel="noreferrer">Deadlock</a>
+  <img src="./assets/deadlock_icon.png" width="32" height="32" alt="Deadlock" style="vertical-align: middle;" />
+</p>
 
 <h2>Socials</h2>
 <div align="left"> 
